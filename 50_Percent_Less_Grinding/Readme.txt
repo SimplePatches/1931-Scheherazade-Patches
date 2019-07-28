@@ -7,7 +7,7 @@ The patch has to be applied manually.
 
 Close "1931: Scheherazade at the Library of Pergamum" if you are running it.
 
-Right click on "1931: Scheherazade at the Library of Pergamum" and select Properties.
+Right click on "1931: Scheherazade at the Library of Pergamum" in your Steam Library and select Properties.
 
 Click on the tab "Local Files".
 
