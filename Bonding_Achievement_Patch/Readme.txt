@@ -16,10 +16,11 @@ Select "Browse Local Files".
 
 In the file explorer that launches open the folder called game.
 
-Copy the file end_interview.rpyc from this patch into this directory replacing the original file.
+Copy the file end_interview.rpy from this patch into this directory.
 
 Run "1931: Scheherazade at the Library of Pergamum" and restore save game and continue or start a new game.
 
 
-To undo this fix (as well as any other fixes) right click on "1931: Scheherazade at the Library of Pergamum" in your 
-Steam Library and select Properties, select the Local Files tab and click Verify Integrity of Game Files.
+To undo this fix (as well as any other fixes), remove the file end_interview.rpy then right click on 
+"1931: Scheherazade at the Library of Pergamum" in your Steam Library and select Properties, then select the 
+Local Files tab and click Verify Integrity of Game Files.
